@@ -1,0 +1,1090 @@
+{
+	"title": "BSGE 2019",
+	"year": 2019,
+	"strict": false,
+	"subjects": [{
+			"id": 0,
+			"unitStr": "4",
+			"unit": 4,
+			"title": "Physics 71",
+			"tags": [],
+			"year": 1,
+			"sem": 1,
+			"status": 5,
+			"isTaking": 0,
+			"takes": [],
+			"prereq": [],
+			"coreq": [
+				1
+			],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 1,
+			"unitStr": "1",
+			"unit": 1,
+			"title": "Physics 71.1",
+			"tags": [],
+			"year": 1,
+			"sem": 1,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [
+				0
+			],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 2,
+			"unitStr": "4",
+			"unit": 4,
+			"title": "Math 21",
+			"tags": [],
+			"year": 1,
+			"sem": 1,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 3,
+			"unitStr": "1",
+			"unit": 1,
+			"title": "GE 2",
+			"tags": [],
+			"year": 1,
+			"sem": 1,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 4,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "GE 10",
+			"tags": [],
+			"year": 1,
+			"sem": 1,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 5,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "Kas 1",
+			"tags": [
+				"AH",
+				"PH"
+			],
+			"year": 1,
+			"sem": 1,
+			"status": 4,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": [
+				"KAS 1"
+			]
+		},
+		{
+			"id": 6,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "ARTS 1",
+			"tags": [
+				"AH"
+			],
+			"year": 1,
+			"sem": 1,
+			"status": 4,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": [
+				"Arts 1"
+			]
+		},
+		{
+			"id": 7,
+			"unitStr": "(2)",
+			"unit": 0,
+			"title": "[PE]",
+			"tags": [
+				"PE"
+			],
+			"year": 1,
+			"sem": 1,
+			"status": 4,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 8,
+			"unitStr": "4",
+			"unit": 4,
+			"title": "GE 12",
+			"tags": [],
+			"year": 1,
+			"sem": 2,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				4
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 9,
+			"unitStr": "2",
+			"unit": 3,
+			"title": "GE 120",
+			"tags": [],
+			"year": 1,
+			"sem": 2,
+			"status": 5,
+			"isTaking": 0,
+			"takes": [],
+			"prereq": [
+				4
+			],
+			"coreq": [
+				8
+			],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 10,
+			"unitStr": "4",
+			"unit": 4,
+			"title": "Physics 72",
+			"tags": [],
+			"year": 1,
+			"sem": 2,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				0
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 11,
+			"unitStr": "1",
+			"unit": 1,
+			"title": "Physics 72.1",
+			"tags": [],
+			"year": 1,
+			"sem": 2,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [
+				10
+			],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 12,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "GE 30",
+			"tags": [],
+			"year": 1,
+			"sem": 2,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				4
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 13,
+			"unitStr": "4",
+			"unit": 4,
+			"title": "Math 22",
+			"tags": [],
+			"year": 1,
+			"sem": 2,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				2
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 14,
+			"unitStr": "1",
+			"unit": 1,
+			"title": "GE 142",
+			"tags": [],
+			"year": 1,
+			"sem": 2,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 15,
+			"unitStr": "(2)",
+			"unit": 0,
+			"title": "[PE]",
+			"tags": [
+				"PE"
+			],
+			"year": 1,
+			"sem": 2,
+			"status": 4,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 16,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "GE 161",
+			"tags": [],
+			"year": 2,
+			"sem": 1,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				8, 12
+			],
+			"coreq": [
+				17
+			],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 17,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "GE 122",
+			"tags": [],
+			"year": 2,
+			"sem": 1,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				13,
+				9
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 18,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "GE 162",
+			"tags": [],
+			"year": 2,
+			"sem": 1,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				8
+			],
+			"coreq": [
+				16
+			],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 19,
+			"unitStr": "4",
+			"unit": 4,
+			"title": "Math 23",
+			"tags": [],
+			"year": 2,
+			"sem": 1,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				13
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 20,
+			"unitStr": "4",
+			"unit": 4,
+			"title": "ES 101",
+			"tags": [],
+			"year": 2,
+			"sem": 2,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				13
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 21,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "GE 168",
+			"tags": [],
+			"year": 2,
+			"sem": 2,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				16, 18
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 22,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "CE 29",
+			"tags": [],
+			"year": 2,
+			"sem": 1,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				13
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 23,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "GE 117",
+			"tags": [],
+			"year": 2,
+			"sem": 1,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				8
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 24,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "CE 11",
+			"tags": [],
+			"year": 2,
+			"sem": 2,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 25,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "GE 118",
+			"tags": [],
+			"year": 2,
+			"sem": 2,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				8
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 26,
+			"unitStr": "4",
+			"unit": 4,
+			"title": "GE 127",
+			"tags": [],
+			"year": 2,
+			"sem": 2,
+			"status": 5,
+			"isTaking": 0,
+			"takes": [],
+			"prereq": [
+				17, 19
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 27,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "GIM 165",
+			"tags": [],
+			"year": 2,
+			"sem": 2,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				12
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 28,
+			"unitStr": "2",
+			"unit": 2,
+			"title": "GE 193",
+			"tags": [],
+			"year": 2,
+			"sem": 3,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				21,
+				23,
+				25
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 29,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "GE 144",
+			"tags": [],
+			"year": 3,
+			"sem": 1,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				14
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 30,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "GE 116",
+			"tags": [],
+			"year": 3,
+			"sem": 1,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				8
+			],
+			"coreq": [
+				29
+			],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 31,
+			"unitStr": "2",
+			"unit": 2,
+			"title": "GIM 176",
+			"tags": [],
+			"year": 3,
+			"sem": 1,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				14,
+				27
+			],
+			"coreq": [
+				30
+			],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 32,
+			"unitStr": "4",
+			"unit": 4,
+			"title": "GsE 188",
+			"tags": [],
+			"year": 3,
+			"sem": 1,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				26,
+				12
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 33,
+			"unitStr": "(3)",
+			"unit": 0,
+			"title": "NSTP 1",
+			"tags": [],
+			"year": 2,
+			"sem": 1,
+			"status": 4,
+			"isTaking": 0,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": [
+				"CWTS 1",
+				"LTS 1",
+				"ROTC MilSci 1",
+				"NSTP 1 and 2",
+				"CWTS 1 and 2",
+				"LTS 1 and 2"
+			]
+		},
+		{
+			"id": 34,
+			"unitStr": "4",
+			"unit": 4,
+			"title": "GsE 189",
+			"tags": [],
+			"year": 3,
+			"sem": 1,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				10
+			],
+			"coreq": [
+				32
+			],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 35,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "Speech 30",
+			"tags": [
+				"AH",
+				"ENG"
+			],
+			"year": 3,
+			"sem": 1,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 36,
+			"unitStr": "4",
+			"unit": 4,
+			"title": "GE 169",
+			"tags": [],
+			"year": 3,
+			"sem": 2,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				21,
+				26
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 37,
+			"unitStr": "2",
+			"unit": 2,
+			"title": "GE 149",
+			"tags": [],
+			"year": 3,
+			"sem": 2,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 38,
+			"unitStr": "2",
+			"unit": 2,
+			"title": "ES 1",
+			"tags": [],
+			"year": 3,
+			"sem": 2,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 39,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "Fil 40",
+			"tags": [
+				"AH",
+				"PH"
+			],
+			"year": 3,
+			"sem": 2,
+			"status": 4,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 40,
+			"unitStr": "(3)",
+			"unit": 0,
+			"title": "NSTP 2",
+			"tags": [],
+			"year": 2,
+			"sem": 2,
+			"status": 4,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": [
+				"CWTS 2",
+				"LTS 2",
+				"ROTC MilSci 2",
+				"CWTS 1 and 2",
+				"LTS 1 and 2"
+			]
+		},
+		{
+			"id": 41,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "[Elective]",
+			"tags": [],
+			"year": 3,
+			"sem": 2,
+			"status": 4,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 42,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "Philo 1",
+			"tags": [
+				"SSP"
+			],
+			"year": 3,
+			"sem": 2,
+			"status": 4,
+			"isTaking": 0,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 43,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "GE 192",
+			"tags": [],
+			"year": 3,
+			"sem": 3,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				26
+			],
+			"coreq": [],
+			"yearreq": 3,
+			"alias": []
+		},
+		{
+			"id": 44,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "EEE 3",
+			"tags": [],
+			"year": 4,
+			"sem": 1,
+			"status": 4,
+			"isTaking": 0,
+			"takes": [],
+			"prereq": [
+				10,
+				13
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 45,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "Eng 13",
+			"tags": [
+				"AH",
+				"ENG"
+			],
+			"year": 4,
+			"sem": 1,
+			"status": 4,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 46,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "STS 1",
+			"tags": [
+				"MST"
+			],
+			"year": 4,
+			"sem": 2,
+			"status": 4,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 47,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "Engg 150",
+			"tags": [
+				"AH",
+				"PH"
+			],
+			"year": 4,
+			"sem": 1,
+			"status": 4,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 4,
+			"alias": []
+		},
+		{
+			"id": 48,
+			"unitStr": "(2)",
+			"unit": 0,
+			"title": "[PE]",
+			"tags": [
+				"PE"
+			],
+			"year": 2,
+			"sem": 1,
+			"status": 4,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 49,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "PI 100",
+			"tags": [
+				"PH"
+			],
+			"year": 4,
+			"sem": 2,
+			"status": 4,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 50,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "GIM 177",
+			"tags": [],
+			"year": 4,
+			"sem": 1,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				31
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 51,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "GE 199",
+			"tags": [],
+			"year": 4,
+			"sem": 1,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				27,
+				30,
+				14,
+				43
+			],
+			"coreq": [],
+			"yearreq": 4,
+			"alias": []
+		},
+		{
+			"id": 52,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "GE 197",
+			"tags": [],
+			"year": 4,
+			"sem": 1,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				27,
+				30,
+				43
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 53,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "Soc Sci 2",
+			"tags": [
+				"SSP"
+			],
+			"year": 4,
+			"sem": 1,
+			"status": 4,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 54,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "[Elective]",
+			"tags": [],
+			"year": 4,
+			"sem": 2,
+			"status": 4,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 55,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "[GE]",
+			"tags": [],
+			"year": 4,
+			"sem": 2,
+			"status": 4,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 56,
+			"unitStr": "(2)",
+			"unit": 0,
+			"title": "[PE]",
+			"tags": [
+				"PE"
+			],
+			"year": 2,
+			"sem": 2,
+			"status": 4,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 57,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "GE 143",
+			"tags": [],
+			"year": 4,
+			"sem": 2,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				14
+			],
+			"coreq": [],
+			"yearreq": 0,
+			"alias": []
+		},
+		{
+			"id": 58,
+			"unitStr": "3",
+			"unit": 3,
+			"title": "GE 200",
+			"tags": [],
+			"year": 4,
+			"sem": 2,
+			"status": 5,
+			"isTaking": false,
+			"takes": [],
+			"prereq": [
+				51
+			],
+			"coreq": [],
+			"yearreq": 4,
+			"alias": []
+		}
+	]
+}
