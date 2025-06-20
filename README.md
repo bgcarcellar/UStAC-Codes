@@ -25,5 +25,7 @@ How to run:
    ay nagshift out na so magfafail talaga sya mag scrape kasi di na covered ng dge crs account. So ok lang talaga na meron kayong makitang nagpiprint na student number
    
    d. Extra Scraping code: Pag may mga students pa rin na piniprint pero ge students, run pa rin etong extra scraping code
+
+   e. Demand Report - mag gegenarate na sya ng report for demand per subject
    
 6.  
