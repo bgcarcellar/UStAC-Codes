@@ -20,7 +20,7 @@ How to run:
    
 ![image](https://github.com/user-attachments/assets/92d2b3ca-051a-422b-a290-98cc6ff14ba4)
 
-      Please check kung meron pang piniprint yung code. ang piniprint nyang student numbers ay yung mga student numbers na di niya na scrape properly (maybe due to bandwidht issues,
+   Please check kung meron pang piniprint yung code. ang piniprint nyang student numbers ay yung mga student numbers na di niya na scrape properly (maybe due to bandwidht issues,
    or limits ng pagscrape. Nabibilisan masyado yung crs data kung automated masyado hehe.) So kelangan po icheck kung madami pa yung mga piniprint ng code. Sometimes, yung mga students
    ay nagshift out na so magfafail talaga sya mag scrape kasi di na covered ng dge crs account. So ok lang talaga na meron kayong makitang nagpiprint na student number
    
