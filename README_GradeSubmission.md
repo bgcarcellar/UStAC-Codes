@@ -175,6 +175,7 @@ Example: `grades_<class_name>.json`
     "numeric_grade": 2.25
   }
 ]
+```
 
 ## 🔐 Data Privacy & Access Control
 	•	Uploaded files inherit Google Drive sharing permissions
